@@ -103,3 +103,5 @@ platforms:
     name: "凤凰网"
   - id: "wallstreetcn.ts"
     name: "华尔街见闻"
+  - id: "fastbull.ts"
+    name: "法布财经"
