@@ -101,5 +101,5 @@ platforms:
     name: "财联社热门"
   - id: "ifeng"
     name: "凤凰网"
-  - id: "fastbull.ts"
-    name: "FastBull"
+  - id: "wallstreetcn.ts"
+    name: "华尔街见闻"
